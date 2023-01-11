@@ -1,5 +1,12 @@
 # CakePHP 3
 
+webconfig.php.bkp
+web-config.php
+
+.vscode/*
+.\.vscode\
+env.php
+
 /vendor/*
 /config/app.php
 
